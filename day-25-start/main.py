@@ -52,6 +52,7 @@ import pandas
 # print(data[data.day == "Monday"])
 # print(data[data.temp == data.temp.max()])
 
+# Look at one row of dataframe at a time
 # monday = data[data.day == "Monday"]
 # print(monday.condition)
 # monday_temp = monday.temp[0]
